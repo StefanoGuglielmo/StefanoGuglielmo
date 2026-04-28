@@ -1,4 +1,4 @@
-## Hi, I'm Stefano 🧠🔬💻
+# Hi, I'm Stefano 🧠🔬💻
 
 I’m a Neuroscience PhD candidate exploring neural circuits underlying behavior, learning, and memory.
 
