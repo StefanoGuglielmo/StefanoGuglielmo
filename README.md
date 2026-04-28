@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Stefano 🧠🔬💻
 
-<!--
-**StefanoGuglielmo/StefanoGuglielmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Neuroscience PhD candidate exploring neural circuits underlying behavior, learning, and memory.
 
-Here are some ideas to get you started:
+You can find out more about my work through my recent publications:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Google Scholar](https://scholar.google.com/citations?user=UXrGZFgAAAAJ&hl=it)
+- [ORCID](https://orcid.org/0009-0005-8892-966X)
+
+🔬 Research Interests  
+- Learning and memory  
+- Hippocampus and Entorhinal Cortex  
+- Synaptic plasticity  
+- Alzheimer’s disease  
+
+💻 Skills  
+- Python | MATLAB | R  
+- Signal processing (neural recordings, LFP, spike data)  
+- Behavioral data analysis  
+- Machine learning for neural and behavioral datasets  
+- Image analysis (histology, microscopy)  
+- Brain mapping and atlas registration    
+- Data analysis & visualization
+- Statistical analysis  
+
