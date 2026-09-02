@@ -1,6 +1,6 @@
 # Hi, I'm Stefano 🧠🔬💻
 
-PhD in Neuroscience | Interested in neural circuits, behavior, learning, and memory.
+PhD in Neurosciences | Interested in neural circuits, behavior, learning, and memory.
 
 You can find out more about my work through my recent publications:
 
